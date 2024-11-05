@@ -135,10 +135,7 @@ Each model was evaluated based on Mean Squared Error (MSE), Mean Absolute Error 
 
 ### Visualization
 
-We include PNG visualizations of:
-* Feature importance in tree-based models
-* Residuals plots
-* Comparison of model performance
+Included PNG visualizations of comparison of model performance
 
 These images can be found in the `notebooks_preprocessing_viz/models_vizualizations.ipynb` notebook or directly within the README if hosted on GitHub.
 ![train_R2](https://github.com/user-attachments/assets/a7c573bd-3c83-438a-8cca-43436f2e1bd4)
