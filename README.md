@@ -141,12 +141,12 @@ We include PNG visualizations of:
 * Comparison of model performance
 
 These images can be found in the `notebooks_preprocessing_viz/models_vizualizations.ipynb` notebook or directly within the README if hosted on GitHub.
-[Test MAE](<../Desktop/machine learning/notebooks_preprocesing/test_mae>)
-[Train MAE](<../Desktop/machine learning/notebooks_preprocesing/train_mae>)
-[Test MSE](<../Desktop/machine learning/notebooks_preprocesing/test_mse>)
-[Train MSE](<../Desktop/machine learning/notebooks_preprocesing/train_mse>)
-[Test R2](<../Desktop/machine learning/notebooks_preprocesing/test_r2>)
-[Train R2](<../Desktop/machine learning/notebooks_preprocesing/train_r2>)
+[Test MAE](<..//notebooks_preprocesing/test_mae>)
+[Train MAE](<../notebooks_preprocesing/train_mae>)
+[Test MSE](<../notebooks_preprocesing/test_mse>)
+[Train MSE](<../notebooks_preprocesing/train_mse>)
+[Test R2](<../notebooks_preprocesing/test_r2>)
+[Train R2](<../notebooks_preprocesing/train_r2>)
 
 ### Usage Instructions
 
