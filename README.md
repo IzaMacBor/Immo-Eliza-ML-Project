@@ -141,19 +141,12 @@ We include PNG visualizations of:
 * Comparison of model performance
 
 These images can be found in the `notebooks_preprocessing_viz/models_vizualizations.ipynb` notebook or directly within the README if hosted on GitHub.
-[Test MAE]()![train_R2](https://github.com/user-attachments/assets/a7c573bd-3c83-438a-8cca-43436f2e1bd4)
+![train_R2](https://github.com/user-attachments/assets/a7c573bd-3c83-438a-8cca-43436f2e1bd4)
 ![train_mse](https://github.com/user-attachments/assets/74ad3a19-c25a-49b0-8745-b8d4d02568d6)
 ![train_mae](https://github.com/user-attachments/assets/11524686-277f-4bda-8c5a-95c563747ee9)
 ![test_R2](https://github.com/user-attachments/assets/78c2467f-3b51-4179-9f24-0c3a00f5f79a)
 ![test_mse](https://github.com/user-attachments/assets/bf91b10f-6290-4495-9e93-a2e84205b3f0)
 ![test_mae](https://github.com/user-attachments/assets/0c28c9e6-7ea6-4710-bc07-c58439e9c979)
-
-[Train MAE](<../notebooks_preprocesing/train_mae>)
-[Test MSE](<../notebooks_preprocesing/test_mse>)
-[Train MSE](<../notebooks_preprocesing/train_mse>)
-[Test R2](<../notebooks_preprocesing/test_r2>)
-[Train R2](<../notebooks_preprocesing/train_r2>)
-
 ### Usage Instructions
 
 To train a model:
