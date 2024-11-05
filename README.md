@@ -14,8 +14,7 @@
 9. [Visualization](#visualization)
 10. [Usage Instructions](#usage-instructions)
 11. [Results](#results)
-12. [Future Improvements](#future-improvements)
-13. [Acknowledgments](#acknowledgments)
+12. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -164,12 +163,6 @@ python scripts/predict.py
 ### Results
 
 Among the models tested, CatBoost, LightGBM, Random Forest, and XGBoost show the best performance, with higher R² scores (around 0.72–0.96) and lower MSE and MAE values, indicating strong predictive accuracy. In contrast, simpler models like Linear Regression and Lasso Regression show lower R² scores (around 0.23–0.31), suggesting they may not capture the complexity of the data as effectively. Overall, ensemble models and gradient boosting techniques appear to provide more reliable results for this dataset.
-
-### Future Improvements
-
-* Enhance feature engineering by adding derived metrics (e.g., price per square meter).
-* Explore neural network models to capture more complex patterns.
-* Implement a full pipeline for end-to-end deployment.
 
 ### Acknowledgments
 
